@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FemBot9000
+- 👋 Hi, I’m @Polsen-92
 - 👀 I’m interested in learning JavaScript, HTML and CSS and Python for full stack coding
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python through Codecademy and a Trilogy BootCamp
 - 💞️ I’m looking to collaborate on Codecademy courses
