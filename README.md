@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Polsen-92
-- 👀 I’m interested in learning JavaScript, HTML and CSS and Python for full stack coding
+- 👋 Hi, I’m Paige Olsen
+- 👀 I’m working towards becoming a Full Stack Developer  
 - 🌱 I’m currently learning JavaScript, HTML, CSS and Python through Codecademy and a Trilogy BootCamp
 - 💞️ I’m looking to collaborate on Codecademy courses
 - 📫 How to reach me: message me here
