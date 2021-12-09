@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Paige Olsen
-- 👀 I’m working towards becoming a Full Stack Developer  
-- 🌱 I’m currently learning JavaScript, HTML, CSS and Python through Codecademy and a Trilogy BootCamp
-- 💞️ I’m looking to collaborate on Codecademy courses
+- 👀 I’m a Front End Developer Who Focuses on Javascript Fundamentals and Enjoys SQL Database Construction  
 - 📫 How to reach me: Paige.El.Olsen@gmail.com
 - [Portfolio](polsen-92.github.io/portfolio_2/)
 <!---
