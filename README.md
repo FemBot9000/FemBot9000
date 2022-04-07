@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paige Olsen
-- 👀 I’m a Front End Developer Who Focuses on Javascript Fundamentals and Enjoys SQL Database Construction  
+- 👀 I’m a FullStack Developer Who Focuses on Javascript Fundamentals and Enjoys SQL Database Construction  
 - 📫 How to reach me: Paige.El.Olsen@gmail.com
 - [Portfolio](https://polsen-92.github.io/Portfolio_2/)
 <!---
